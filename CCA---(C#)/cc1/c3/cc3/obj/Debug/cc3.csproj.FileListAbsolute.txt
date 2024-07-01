@@ -1,0 +1,7 @@
+D:\GIt\assisment\cc3\cc3\bin\Debug\cc3.exe.config
+D:\GIt\assisment\cc3\cc3\bin\Debug\cc3.exe
+D:\GIt\assisment\cc3\cc3\bin\Debug\cc3.pdb
+D:\GIt\assisment\cc3\cc3\obj\Debug\cc3.csproj.AssemblyReference.cache
+D:\GIt\assisment\cc3\cc3\obj\Debug\cc3.csproj.CoreCompileInputs.cache
+D:\GIt\assisment\cc3\cc3\obj\Debug\cc3.exe
+D:\GIt\assisment\cc3\cc3\obj\Debug\cc3.pdb

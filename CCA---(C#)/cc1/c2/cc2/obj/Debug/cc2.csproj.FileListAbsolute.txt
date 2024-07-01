@@ -1,0 +1,7 @@
+D:\GIt\assisment\cc2\cc2\bin\Debug\cc2.exe.config
+D:\GIt\assisment\cc2\cc2\bin\Debug\cc2.exe
+D:\GIt\assisment\cc2\cc2\bin\Debug\cc2.pdb
+D:\GIt\assisment\cc2\cc2\obj\Debug\cc2.csproj.AssemblyReference.cache
+D:\GIt\assisment\cc2\cc2\obj\Debug\cc2.csproj.CoreCompileInputs.cache
+D:\GIt\assisment\cc2\cc2\obj\Debug\cc2.exe
+D:\GIt\assisment\cc2\cc2\obj\Debug\cc2.pdb

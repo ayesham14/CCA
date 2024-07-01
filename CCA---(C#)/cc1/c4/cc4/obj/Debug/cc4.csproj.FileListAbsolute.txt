@@ -1,0 +1,2 @@
+D:\GIt\assisment\cc4\cc4\obj\Debug\cc4.csproj.AssemblyReference.cache
+D:\GIt\assisment\cc4\cc4\obj\Debug\cc4.csproj.CoreCompileInputs.cache
