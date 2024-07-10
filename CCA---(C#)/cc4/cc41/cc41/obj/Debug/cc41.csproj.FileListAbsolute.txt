@@ -1,0 +1,7 @@
+D:\GitHub\CCA\CCA---(C#)\cc4\cc41\cc41\bin\Debug\cc41.exe.config
+D:\GitHub\CCA\CCA---(C#)\cc4\cc41\cc41\bin\Debug\cc41.exe
+D:\GitHub\CCA\CCA---(C#)\cc4\cc41\cc41\bin\Debug\cc41.pdb
+D:\GitHub\CCA\CCA---(C#)\cc4\cc41\cc41\obj\Debug\cc41.csproj.AssemblyReference.cache
+D:\GitHub\CCA\CCA---(C#)\cc4\cc41\cc41\obj\Debug\cc41.csproj.CoreCompileInputs.cache
+D:\GitHub\CCA\CCA---(C#)\cc4\cc41\cc41\obj\Debug\cc41.exe
+D:\GitHub\CCA\CCA---(C#)\cc4\cc41\cc41\obj\Debug\cc41.pdb

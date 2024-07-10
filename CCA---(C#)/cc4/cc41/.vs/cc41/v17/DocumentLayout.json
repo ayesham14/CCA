@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\GitHub\\CCA\\CCA---(C#)\\cc4\\cc41\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CEA9E67-D049-4262-BCA6-AECDF32AE0B9}|cc41\\cc41.csproj|d:\\github\\cca\\cca---(c#)\\cc4\\cc41\\cc41\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CEA9E67-D049-4262-BCA6-AECDF32AE0B9}|cc41\\cc41.csproj|solutionrelative:cc41\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\GitHub\\CCA\\CCA---(C#)\\cc4\\cc41\\cc41\\Program.cs",
+              "RelativeDocumentMoniker": "cc41\\Program.cs",
+              "ToolTip": "D:\\GitHub\\CCA\\CCA---(C#)\\cc4\\cc41\\cc41\\Program.cs",
+              "RelativeToolTip": "cc41\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAIwBEAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-10T04:28:10.516Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
